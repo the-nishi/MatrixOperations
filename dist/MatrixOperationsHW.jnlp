@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="MatrixOperationsHW.jnlp">
+  <information>
+    <title>MatrixOperationsHW</title>
+    <vendor>uroot</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="MatrixOperationsHW.jar" size="2555" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="iZafor.App"  name="MatrixOperationsHW" />
+  <update check="always"/>
+</jnlp>
